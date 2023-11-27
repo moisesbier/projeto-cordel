@@ -18,8 +18,8 @@ Olá, bem-vindo ao meu projeto de desenvolvimento web, onde cito um Cordel escri
 
 #### Site: https://moisesbier.github.io/projeto-cordel/
  
-![Tela primária](https://i.imgur.com/AbRqRjm.jpg)
-![Tela intermediária](https://i.imgur.com/3m2F35L.jpg)
-![Tela final](https://i.imgur.com/2WhcBHc.jpg)
+<img src="https://i.imgur.com/AbRqRjm.jpg" width="300px"/>
+<img src="https://i.imgur.com/3m2F35L.jpg" width="300px"/>
+<img src="https://i.imgur.com/2WhcBHc.jpg" width="300px"/>
 
 > Versão final
