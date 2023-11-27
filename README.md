@@ -16,10 +16,10 @@ Olá, bem-vindo ao meu projeto de desenvolvimento web, onde cito um Cordel escri
 
 #### Linkedin: https://www.linkedin.com/in/moisesbier/
 
-#### Site: 
+#### Site: https://moisesbier.github.io/projeto-cordel/
  
-![Tela primária]()
-![Tela intermediária]()
-![Tela final]()
+![Tela primária](https://i.imgur.com/AbRqRjm.jpg)
+![Tela intermediária](https://i.imgur.com/3m2F35L.jpg)
+![Tela final](https://i.imgur.com/2WhcBHc.jpg)
 
 > Versão final
